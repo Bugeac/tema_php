@@ -67,6 +67,7 @@ In controllerul principal vom adauga cateva metode ce vor putea fi folosite in t
     * Entity va fi un rand specific dintr-un tabel(pt a-l putea 'mapa ca si un obiect')
 
 5. Database:
+    * fisierul 'tema_php.sql' va create baza de date si tabelul necesar.
     * La baza de date ne vom conecta cu PDO.
 
 6. View: 
